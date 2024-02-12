@@ -1,0 +1,543 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "cuisine": "Italian",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/06/THUMB-LINK-2020-2-1200x675.jpg",
+        "description": "Classic Italian pasta dish with a hearty meat sauce.",
+        "ingredients": [
+          "400g spaghetti",
+          "500g ground beef",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 can (400g) crushed tomatoes",
+          "2 tablespoons tomato paste",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "Salt and pepper to taste",
+          "Grated Parmesan cheese for serving"
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a large skillet, brown the ground beef over medium heat.",
+          "Add chopped onions and garlic, cook until onions are translucent.",
+          "Stir in crushed tomatoes, tomato paste, oregano, basil, salt, and pepper.",
+          "Simmer the sauce for 20-30 minutes, stirring occasionally.",
+          "Serve the sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Caprese Salad",
+        "cuisine": "Italian",
+        "dietary": "Vegetarian",
+        "difficulty": "Easy",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Caprese-salad-8f218a3.png?resize=768,574",
+        "description": "Refreshing Italian salad with tomatoes, mozzarella, and basil.",
+        "ingredients": [
+          "4 large tomatoes, sliced",
+          "200g fresh mozzarella, sliced",
+          "Fresh basil leaves",
+          "Extra virgin olive oil",
+          "Balsamic glaze",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Arrange tomato and mozzarella slices on a serving platter.",
+          "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+          "Drizzle with extra virgin olive oil and balsamic glaze.",
+          "Season with salt and pepper to taste.",
+          "Serve immediately and enjoy the freshness!"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chicken Alfredo Pasta",
+        "cuisine": "Italian",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://www.jessicagavin.com/wp-content/uploads/2019/08/chicken-alfredo-8-1200.jpg",
+        "description": "Creamy Alfredo sauce with grilled chicken served over fettuccine.",
+        "ingredients": [
+          "300g fettuccine pasta",
+          "2 boneless, skinless chicken breasts",
+          "2 tablespoons butter",
+          "2 cloves garlic, minced",
+          "1 cup heavy cream",
+          "1 cup grated Parmesan cheese",
+          "Salt and black pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "instructions": [
+          "Cook fettuccine pasta according to package instructions.",
+          "Season chicken breasts with salt and pepper, grill until fully cooked.",
+          "In a skillet, melt butter, add minced garlic and sauté until fragrant.",
+          "Pour in heavy cream, bring to a simmer, and stir in Parmesan cheese.",
+          "Slice grilled chicken and toss with the Alfredo sauce.",
+          "Serve over cooked fettuccine and garnish with chopped parsley."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Mango Salsa Chicken",
+        "cuisine": "Mexican",
+        "dietary": "Non-Vegan",
+        "difficulty": "Easy",
+        "image": "https://healthyfitnessmeals.com/wp-content/uploads/2018/04/grilled-chicken-with-mango-avocado-salsa-3-SQUARE.jpg",
+        "description": "Grilled chicken topped with a fresh and fruity mango salsa.",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 ripe mangoes, diced",
+          "1 red bell pepper, diced",
+          "1/2 red onion, finely chopped",
+          "1 jalapeño, seeded and minced",
+          "Juice of 2 limes",
+          "Fresh cilantro, chopped",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Season chicken breasts with salt and pepper, grill until fully cooked.",
+          "In a bowl, combine diced mangoes, red bell pepper, red onion, jalapeño, and cilantro.",
+          "Squeeze lime juice over the mango salsa and toss to combine.",
+          "Top grilled chicken with mango salsa and serve."
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vegetarian Buddha Bowl",
+        "cuisine": "Various",
+        "dietary": "Vegetarian",
+        "difficulty": "Easy",
+        "image": "https://simplyceecee.co/wp-content/uploads/2018/07/veganbuddhabowl-2.jpg",
+        "description": "A nourishing bowl with a variety of colorful vegetables and grains.",
+        "ingredients": [
+          "1 cup quinoa, cooked",
+          "1 cup sweet potato, diced and roasted",
+          "1 cup broccoli florets, steamed",
+          "1 cup cherry tomatoes, halved",
+          "1 cup cucumber, sliced",
+          "1/2 avocado, sliced",
+          "Hummus for drizzling",
+          "Tahini dressing",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Assemble the Buddha bowl by arranging quinoa, sweet potato, broccoli, tomatoes, cucumber, and avocado.",
+          "Drizzle hummus over the bowl and add a generous amount of tahini dressing.",
+          "Season with salt and pepper to taste.",
+          "Mix the ingredients together before enjoying this wholesome vegetarian dish."
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Beef Tacos",
+        "cuisine": "Mexican",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://danosseasoning.com/wp-content/uploads/2022/03/Beef-Tacos-768x575.jpg",
+        "description": "Flavorful and juicy beef tacos with classic toppings.",
+        "ingredients": [
+          "500g ground beef",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 packet taco seasoning",
+          "Taco shells",
+          "Shredded lettuce",
+          "Diced tomatoes",
+          "Shredded cheese",
+          "Sour cream",
+          "Salsa"
+        ],
+        "instructions": [
+          "In a skillet, cook ground beef over medium heat until browned.",
+          "Add chopped onions and minced garlic, cook until onions are soft.",
+          "Stir in taco seasoning and follow package instructions.",
+          "Warm taco shells and assemble tacos with seasoned beef, lettuce, tomatoes, cheese, sour cream, and salsa."
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Homemade Margherita Pizza",
+        "cuisine": "Italian",
+        "dietary": "Vegetarian",
+        "difficulty": "Easy",
+        "image": "https://www.cookingclassy.com/wp-content/uploads/2017/08/margherita-pizza-9.jpg",
+        "description": "Classic Margherita pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+          "Pizza dough",
+          "1/2 cup pizza sauce",
+          "1-2 tomatoes, sliced",
+          "200g fresh mozzarella, sliced",
+          "Fresh basil leaves",
+          "Olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to the recommended temperature for the pizza dough.",
+          "Roll out the pizza dough on a floured surface to your desired thickness.",
+          "Spread pizza sauce evenly over the dough.",
+          "Top with sliced tomatoes, fresh mozzarella, and basil leaves.",
+          "Drizzle with olive oil and season with salt and pepper.",
+          "Bake in the oven until the crust is golden and the cheese is melted and bubbly."
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Shrimp Scampi",
+        "cuisine": "Italian",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image":"https://hips.hearstapps.com/hmg-prod/images/shrimp-scampi-index-644c0ade03d01.jpg?crop=0.8886420438767009xw:1xh;center,top&resize=1200:*",
+        "description": "Lemony garlic shrimp served over a bed of linguine.",
+        "ingredients": [
+          "300g linguine pasta",
+          "500g large shrimp, peeled and deveined",
+          "4 tablespoons butter",
+          "4 cloves garlic, minced",
+          "Juice of 2 lemons",
+          "Zest of 1 lemon",
+          "Chopped parsley",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "Cook linguine pasta according to package instructions.",
+          "In a large skillet, melt butter over medium heat.",
+          "Add minced garlic and sauté until fragrant.",
+          "Add shrimp to the skillet and cook until pink and opaque.",
+          "Pour lemon juice and zest over the shrimp, season with salt and pepper.",
+          "Serve the shrimp over cooked linguine and garnish with chopped parsley."
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Quinoa Salad with Chickpeas",
+        "cuisine": "Various",
+        "dietary": "Vegan",
+        "difficulty": "Easy",
+        "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/07/quinoa-chickpea-salad-featured.jpg",
+        "description": "A protein-packed salad with quinoa, chickpeas, and fresh vegetables.",
+        "ingredients": [
+          "1 cup quinoa, cooked",
+          "1 can (400g) chickpeas, drained and rinsed",
+          "1 cucumber, diced",
+          "1 bell pepper, diced",
+          "1/2 red onion, finely chopped",
+          "Cherry tomatoes, halved",
+          "Feta cheese, crumbled",
+          "Olive oil and lemon dressing",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine cooked quinoa, chickpeas, cucumber, bell pepper, red onion, and cherry tomatoes.",
+          "Drizzle with olive oil and lemon dressing, toss to combine.",
+          "Top the salad with crumbled feta cheese and season with salt and pepper.",
+          "Serve chilled and enjoy this nutritious quinoa salad."
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Teriyaki Chicken Stir-Fry",
+        "cuisine": "Asian",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://www.eatyourselfskinny.com/wp-content/uploads/2021/01/teriyaki-stir-fry-2-scaled.jpg",
+        "description": "Quick and flavorful teriyaki chicken with colorful vegetables.",
+        "ingredients": [
+          "2 boneless, skinless chicken breasts, thinly sliced",
+          "2 cups broccoli florets",
+          "1 bell pepper, thinly sliced",
+          "1 carrot, julienned",
+          "1/2 cup teriyaki sauce",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil",
+          "1 tablespoon cornstarch",
+          "Cooked white rice for serving"
+        ],
+        "instructions": [
+          "In a bowl, mix teriyaki sauce, soy sauce, sesame oil, and cornstarch to make the sauce.",
+          "Stir-fry chicken in a hot wok or skillet until cooked through.",
+          "Add broccoli, bell pepper, and carrot to the wok, stir-fry until vegetables are tender-crisp.",
+          "Pour the teriyaki sauce over the chicken and vegetables, toss to coat.",
+          "Serve over cooked white rice and enjoy this delicious stir-fry."
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Eggplant Parmesan",
+        "cuisine": "Italian",
+        "dietary": "Vegetarian",
+        "difficulty": "Intermediate",
+        "image":"https://www.allrecipes.com/thmb/v8J8OelKo1bEJ9RyekLtL89A_R0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457679-eggplant-parmesan-gluten-free-Buckwheat-Queen-4x3-1-1380f16c6cc14e059f7ae7d741d390d9.jpg",
+        "description": "Baked eggplant slices layered with marinara sauce and melted cheese.",
+        "ingredients": [
+          "2 large eggplants, sliced",
+          "2 cups marinara sauce",
+          "2 cups shredded mozzarella cheese",
+          "1 cup grated Parmesan cheese",
+          "1 cup breadcrumbs",
+          "2 eggs, beaten",
+          "Fresh basil for garnish",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F (190°C).",
+          "Dip eggplant slices in beaten eggs, then coat with breadcrumbs.",
+          "Bake the breaded eggplant slices on a baking sheet until golden brown.",
+          "In a baking dish, layer marinara sauce, baked eggplant slices, and shredded mozzarella and Parmesan cheeses.",
+          "Repeat the layers and bake until the cheese is melted and bubbly.",
+          "Garnish with fresh basil and serve."
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Thai Green Curry with Tofu",
+        "cuisine": "Thai",
+        "dietary": "Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://pipingpotcurry.com/wp-content/uploads/2022/02/Vegetarian-Thai-Green-Curry-Tofu-Vegetables-Piping-Pot-Curry.jpg",
+        "description": "A fragrant and spicy Thai green curry with tofu and vegetables.",
+        "ingredients": [
+          "1 block firm tofu, cubed",
+          "1 can (400ml) coconut milk",
+          "2 tablespoons green curry paste",
+          "1 cup mixed vegetables (bell peppers, bamboo shoots, etc.)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon brown sugar",
+          "Fresh cilantro for garnish",
+          "Cooked jasmine rice"
+        ],
+        "instructions": [
+          "In a pot, heat coconut milk over medium heat.",
+          "Stir in green curry paste, soy sauce, and brown sugar.",
+          "Add cubed tofu and mixed vegetables to the pot, simmer until vegetables are tender.",
+          "Serve the green curry over cooked jasmine rice and garnish with fresh cilantro."
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Classic Caesar Salad",
+        "cuisine": "Various",
+        "dietary": "Vegetarian",
+        "difficulty": "Easy",
+        "image": "https://foolproofliving.com/wp-content/uploads/2013/12/Classic-Caesar-Salad-recipe.jpg",
+        "description": "A timeless Caesar salad with crisp romaine lettuce and homemade dressing.",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 cup croutons",
+          "1/2 cup grated Parmesan cheese",
+          "Caesar dressing",
+          "Lemon wedges",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine chopped romaine lettuce, croutons, and grated Parmesan cheese.",
+          "Drizzle Caesar dressing over the salad and toss to coat.",
+          "Season with salt and black pepper to taste.",
+          "Serve with lemon wedges on the side for added freshness."
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Beef and Vegetable Stir-Fry",
+        "cuisine": "Asian",
+        "dietary": "Non-Vegan",
+        "difficulty": "Intermediate",
+        "image": "https://mccormick.widen.net/content/1ziefbjhvu/original/beef_stir_fry_and_vegetable_800x800.jpg",
+        "description": "Quick and flavorful beef stir-fry with a variety of colorful vegetables.",
+        "ingredients": [
+          "500g beef sirloin, thinly sliced",
+          "2 cups broccoli florets",
+          "1 bell pepper, thinly sliced",
+          "1 carrot, julienned",
+          "2 tablespoons soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon sesame oil",
+          "2 cloves garlic, minced",
+          "Cooked white rice for serving"
+        ],
+        "instructions": [
+          "In a bowl, mix soy sauce, oyster sauce, and sesame oil to create the sauce.",
+          "Stir-fry beef in a hot wok or skillet until browned.",
+          "Add garlic, broccoli, bell pepper, and carrot to the wok, stir-fry until vegetables are tender-crisp.",
+          "Pour the sauce over the beef and vegetables, toss to combine.",
+          "Serve over cooked white rice and enjoy this savory stir-fry."
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Blueberry Pancakes",
+        "cuisine": "American",
+        "dietary": "Vegetarian",
+        "difficulty": "Easy",
+        "image":"https://www.culinaryhill.com/wp-content/uploads/2023/09/Blueberry-Pancakes-Culinary-Hill-1200x800-1.jpg",
+        "description": "Fluffy pancakes filled with fresh blueberries for a delightful breakfast.",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon sugar",
+          "1 teaspoon baking powder",
+          "1/2 teaspoon baking soda",
+          "1/4 teaspoon salt",
+          "3/4 cup buttermilk",
+          "1 large egg",
+          "2 tablespoons melted butter",
+          "1 cup fresh blueberries",
+          "Maple syrup for serving"
+        ],
+        "instructions": [
+          "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+          "In another bowl, whisk together buttermilk, egg, and melted butter.",
+          "Combine the wet and dry ingredients, then fold in fresh blueberries.",
+          "Heat a griddle or skillet over medium heat and pour batter to make pancakes.",
+          "Cook until bubbles form on the surface, then flip and cook the other side.",
+          "Serve the blueberry pancakes with maple syrup and enjoy!"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Jollof Rice",
+        "cuisine": "African",
+        "dietary": "Vegetarian",
+        "difficulty": "Medium",
+        "image": "https://grandbaby-cakes.com/wp-content/uploads/2023/04/jollof-rice-recipe-23.jpg",
+        "description": "A popular West African dish made with rice, tomatoes, and various spices.",
+        "ingredients": [
+          "2 cups long-grain parboiled rice",
+          "1 cup tomato paste",
+          "1 large onion, diced",
+          "2 red bell peppers, chopped",
+          "2 cups chicken or vegetable broth",
+          "1/4 cup vegetable oil",
+          "2 teaspoons thyme",
+          "2 teaspoons curry powder",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Rinse the rice under cold water and set aside.",
+          "In a large pot, heat the vegetable oil over medium heat.",
+          "Add diced onions and cook until translucent.",
+          "Stir in tomato paste, bell peppers, thyme, and curry powder. Cook for 5 minutes.",
+          "Add rice to the pot and stir to coat with the tomato mixture.",
+          "Pour in the chicken or vegetable broth, season with salt and pepper, and bring to a boil.",
+          "Reduce heat to low, cover the pot, and simmer for 20-25 minutes or until the rice is cooked.",
+          "Fluff the rice with a fork and serve."
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Doro Wat",
+        "cuisine": "African",
+        "dietary": "Non-Vegan",
+        "difficulty": "High",
+        "image": "https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Doro-Wat-Recipe-SQ.jpg",
+        "description": "A spicy chicken stew and a staple in Ethiopian cuisine.",
+        "ingredients": [
+          "2 lbs chicken thighs, skinless and bone-in",
+          "3 large red onions, finely chopped",
+          "4 cloves garlic, minced",
+          "2 teaspoons ginger, minced",
+          "1/4 cup berbere spice",
+          "1/4 cup vegetable oil",
+          "1 cup chicken broth",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a large pot, heat vegetable oil over medium heat.",
+          "Add chopped onions and cook until golden brown.",
+          "Stir in minced garlic, ginger, and berbere spice. Cook for 5 minutes.",
+          "Add chicken thighs to the pot and brown on all sides.",
+          "Pour in chicken broth, season with salt, and bring to a simmer.",
+          "Cover the pot and let it simmer for 45-60 minutes until the chicken is cooked and the sauce thickens.",
+          "Serve the Doro Wat with injera (Ethiopian flatbread)."
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Bobotie",
+        "cuisine": "African",
+        "dietary": "Non-Vegan",
+        "difficulty": "Medium",
+        "image": "https://gradfood.com/wp-content/uploads/2022/08/South-African-Bobotie-1024x768.jpg",
+        "description": "A South African baked dish with spiced minced meat topped with an egg-based mixture.",
+        "ingredients": [
+          "1 lb ground beef or lamb",
+          "1 cup milk",
+          "2 slices white bread",
+          "1 large onion, finely chopped",
+          "2 tablespoons curry powder",
+          "2 tablespoons apricot jam",
+          "2 tablespoons chutney",
+          "2 tablespoons vinegar",
+          "2 eggs",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Soak the bread slices in milk and set aside.",
+          "In a pan, sauté the chopped onion until translucent.",
+          "Add ground meat and cook until browned. Stir in curry powder, apricot jam, chutney, and vinegar.",
+          "Squeeze excess milk from soaked bread and add it to the meat mixture. Season with salt and pepper.",
+          "Transfer the mixture to a baking dish.",
+          "Beat eggs and pour them over the meat mixture.",
+          "Bake for 30-40 minutes or until the top is golden brown.",
+          "Serve the Bobotie with rice or bread."
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Poulet Yassa",
+        "cuisine": "African",
+        "dietary": "Non-Vegan",
+        "difficulty": "Medium",
+        "image": "https://travelandmunchies.com/wp-content/uploads/2023/02/IMG_1680-scaled.jpg",
+        "description": "A Senegalese dish featuring marinated chicken cooked with onions and lemon.",
+        "ingredients": [
+          "4 chicken thighs",
+          "4 large onions, thinly sliced",
+          "3 lemons, juiced",
+          "4 cloves garlic, minced",
+          "1 teaspoon Dijon mustard",
+          "1 teaspoon thyme",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a bowl, mix lemon juice, minced garlic, Dijon mustard, thyme, salt, and pepper.",
+          "Marinate chicken thighs in the mixture for at least 1 hour or overnight.",
+          "Heat vegetable oil in a pan and brown the marinated chicken on both sides.",
+          "Remove chicken from the pan and sauté sliced onions until golden brown.",
+          "Return the chicken to the pan, add the marinade, and simmer until the chicken is cooked through.",
+          "Serve Poulet Yassa with rice or couscous."
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Bunny Chow",
+        "cuisine": "South African",
+        "dietary": "Non-Vegan",
+        "difficulty": "Easy",
+        "image": "https://i0.wp.com/www.thefluxreview.com/wp-content/uploads/2023/11/bunny-chow.webp?w=1076&h=861&ssl=1",
+        "description": "A South African fast-food dish consisting of a hollowed-out loaf of bread filled with curry.",
+        "ingredients": [
+          "1 loaf of unsliced white bread",
+          "1 lb lamb or chicken curry",
+          "1 large onion, chopped",
+          "2 tomatoes, diced",
+          "2 tablespoons curry powder",
+          "2 tablespoons vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Cut the loaf of bread into individual servings and hollow out the centers to create bread bowls.",
+          "Prepare your choice of lamb or chicken curry.",
+          "In a separate pan, sauté chopped onions and tomatoes with curry powder in vegetable oil until softened.",
+          "Mix the sautéed vegetables into the curry and season with salt and pepper.",
+          "Fill each hollowed-out bread loaf with the curry mixture.",
+          "Serve Bunny Chow hot and enjoy!"
+        ]
+      }
+    ]
+  }
+  
